@@ -22,6 +22,11 @@ This is Sai Krisshna Bollina, Mechanical engineer kinada interested in everythin
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
  </p>
+ 
+ <p align="center"> 
+  <b>Visitors count</b><br>
+  <img src="https://profile-counter.glitch.me/imshawan/count.svg">
+</p>
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
