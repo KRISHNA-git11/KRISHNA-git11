@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+This is Sai Krisshna Bollina, Mechanical engineer kinada interested in everything!
 
 ## 🧑‍💻 Tech stack
 
