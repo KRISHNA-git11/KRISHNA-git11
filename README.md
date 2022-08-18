@@ -25,7 +25,7 @@ This is Sai Krishna Bollina, Mechanical Engineer kinda interested in everything!
  
  <p align="center"> 
   <b>Visitors count</b><br>
-  <img src="https://profile-counter.glitch.me/imshawan/count.svg">
+  <img src="https://profile-counter.glitch.me/KRISHNA-git11/count.svg">
 </p>
 <!-- 
 - 🔭 I’m currently working on ...
