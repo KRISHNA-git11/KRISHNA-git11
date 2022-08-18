@@ -23,10 +23,10 @@ This is Sai Krishna Bollina, Mechanical Engineer kinda interested in everything!
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
  </p>
  
- <p align="center"> 
+<!--  <p align="center"> 
   <b>Visitors count</b><br>
   <img src="https://profile-counter.glitch.me/KRISHNA-git11/count.svg">
-</p>
+</p> -->
 <!-- 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
