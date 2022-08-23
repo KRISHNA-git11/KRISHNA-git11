@@ -21,6 +21,7 @@ This is Sai Krishna Bollina, Mechanical Engineer kinda interested in everything!
  <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
   <img alt="Git" src="https://img.shields.io/badge/Git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/-c++-black?logo=c%2B%2B&style=social" />
  </p>
  
 <!--  <p align="center"> 
