@@ -39,3 +39,5 @@ This is Sai Krishna Bollina, Mechanical Engineer kinda interested in everything!
 - ⚡ Fun fact: ... -->
 
 <!-- <img src="https://profile-counter.glitch.me/KRISHNA-git11/count.svg" ></img> -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
