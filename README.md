@@ -1,5 +1,5 @@
 ## Hi there 👋
-This is Sai Krishna Bollina, Mechanical Engineer kinda interested in everything!
+This is Sai Krishna Bollina
 
 ## 🧑‍💻 Tech stack
 
